@@ -1,10 +1,10 @@
 # Grey API 🤖
 
-Hey there! 👋 Welcome to the Grey API repo. This is just a place for me to share info about my API service that lets you access some cool AI models through a simple interface.
+Hey there! 👋 Welcome to this random repo. This is just a place for me to share info about my API service that lets you access some cool AI models through a simple interface.
 
 ## What's This All About?
 
-Grey API is my little project that gives you access to powerful AI models without all the hassle. I built a super simple API that lets you chat with models like GPT-4o and others without having to deal with complicated setups. Because let's be honest, nobody has time to read 50-page documentation just to ask an AI "Why did the chicken cross the road?"
+Grey API is my little project that gives you access to powerful AI models without all the hassle. I built a super simple API that lets you chat with models like GPT-4o and others without having to deal with complicated setups. Because let's be honest, nobody has time to read 50-page documentation just to ask an AI "Why did the chicken cross the road?" (bad joke lol)
 
 ## Check It Out
 
@@ -68,7 +68,7 @@ call_api()
 ## FAQ
 
 **Q: Is this free to use?**  
-A: For now, yeah! I'm keeping it open while I work on it. Might have to add some limits if it gets too popular. My cloud bill is already making my wallet cry.
+A: For now, yeah! I'm keeping it open while I work on it. Might have to add some limits if it gets too popular (haha).
 
 **Q: Can I contribute?**  
 A: This isn't an open-source project right now, but feel free to suggest ideas! I'm particularly fond of ideas that don't require me to rewrite everything from scratch.
@@ -77,7 +77,7 @@ A: This isn't an open-source project right now, but feel free to suggest ideas! 
 A: Currently supporting GPT-4o, GPT-3.5 Turbo, and Nova AI. More coming soon! (Or whenever I can figure out how to add them without breaking everything)
 
 **Q: Will this make me rich and famous?**  
-A: Probably not, but neither will that mobile game you've been playing for 3 hours.
+A: Probably not, but neither will pretending to code while secretly browsing memes.
 
 
 I'll post updates here when I add new features or models, so star the repo if you want to stay in the loop! No spam, I promise. I'm too lazy for that.
