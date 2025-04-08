@@ -77,7 +77,7 @@ A: This isn't an open-source project right now, but feel free to suggest ideas! 
 A: Currently supporting GPT-4o, GPT-3.5 Turbo, and Nova AI. More coming soon! (Or whenever I can figure out how to add them without breaking everything)
 
 **Q: Will this make me rich and famous?**  
-A: Probably not, but neither will pretending to code while secretly browsing memes.
+A: Probably not, but neither will pretending to code while secretly browsing cat memes.
 
 
 I'll post updates here when I add new features or models, so star the repo if you want to stay in the loop! No spam, I promise. I'm too lazy for that.
