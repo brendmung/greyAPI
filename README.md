@@ -1,4 +1,4 @@
-# Grey API 🤖
+# GreyAPI?
 
 "Wait, how did you even find this place? Got lost on GitHub?, or were you actually looking for this? Either way, welcome! I built this API service to give you easy access to some powerful AI models without all the boring stuff."
 
