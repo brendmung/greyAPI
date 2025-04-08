@@ -1,6 +1,6 @@
 # Grey API 🤖
 
-Hey there! 👋 Welcome to this random repo. This is just a place for me to share info about my API service that lets you access some cool AI models through a simple interface.
+"Wait, how did you even find this place? Got lost on GitHub?, or were you actually looking for this? Either way, welcome! I built this API service to give you easy access to some powerful AI models without all the boring stuff."
 
 ## What's This All About?
 
@@ -74,7 +74,7 @@ A: For now, yeah! I'm keeping it open while I work on it. Might have to add some
 A: This isn't an open-source project right now, but feel free to suggest ideas! I'm particularly fond of ideas that don't require me to rewrite everything from scratch.
 
 **Q: What models are available?**  
-A: Currently supporting GPT-4o, GPT-3.5 Turbo, and Nova AI. More coming soon! (Or whenever I can figure out how to add them without breaking everything)
+**A:** Currently supporting GPT-4o, GPT-3.5 Turbo, and Nova AI. More might come later (if I ever figure out how to add them without breaking everything), but honestly… too lazy to keep this updated. Just go check the docs like everyone else! 😎
 
 **Q: Will this make me rich and famous?**  
 A: Probably not, but neither will pretending to code while secretly browsing cat memes.
