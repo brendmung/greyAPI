@@ -1,25 +1,24 @@
 # GreyAPI?
 
-"Wait, how did you even find this place? Got lost on GitHub?, or were you actually looking for this? Either way, welcome! I built this API service to give you easy access to some powerful AI models without all the boring stuff."
+Welcome to **GreyAPI** — a free, lightweight API for plugging AI models into whatever you’re building. Written at odd hours, polished enough for daylight use.
 
 ## What's This All About?
 
-Grey API is my little project that gives you access to powerful AI models without all the hassle. I built a super simple API that lets you chat with models like GPT-4o and others without having to deal with complicated setups. Because let's be honest, nobody has time to read 50-page documentation just to ask an AI "Why did the chicken cross the road?" (bad joke lol)
+GreyAPI gives you a simple way to chat with models like GPT-5, GPT-4o and more. No massive SDKs, no endless docs — just a clean API you can hit right away.
 
 ## Check It Out
 
 You can find the actual API and demo site at: [https://grey-api.vercel.app](https://grey-api.vercel.app)
 
 ## Features
-
-- 🧠 Access to multiple AI models through one API
-- 💬 Simple chat endpoint (so simple even your grandma could use it)
-- 🔌 Easy to integrate with your projects (easier than assembling IKEA furniture)
-- 🚀 Works with JavaScript, Python, cURL, Java, etc.
+- 🧠 Access multiple AI models from one endpoint
+- 💬 Just send a message, get a reply — that’s it
+- 🔌 Works with JS, Python, cURL and probably your favorite language too
+- 🚀 Fast enough that if it’s slow, blame your WiFi
 
 ## Basic Usage
 
-Here's how simple it is to use (no PhD in computer science required):
+Here's how simple it is to use (no PhD required):
 
 ### JavaScript
 
@@ -31,7 +30,7 @@ async function callAPI() {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      model: 'gpt-4o',
+      model: 'gpt-5',
       messages: [
         { role: 'user', content: 'Tell me a joke about programming' }
       ]
@@ -51,7 +50,7 @@ import requests
 def call_api():
     url = 'https://grey-api.vercel.app/api/chat'
     payload = {
-        'model': 'gpt-4o',
+        'model': 'gpt-5',
         'messages': [
             {'role': 'user', 'content': 'Tell me a joke about programming'}
         ]
@@ -61,27 +60,27 @@ def call_api():
     data = response.json()
     print(data['response'])
 
-# Look ma, no authentication tokens or complicated SDKs!
+# No authentication tokens, complicated SDKs...See!?
 call_api()
 ```
 
 ## FAQ
 
 **Q: Is this free to use?**  
-A: For now, yeah! I'm keeping it open while I work on it. Might have to add some limits if it gets too popular (haha).
+A: For now, yeah! I'm keeping it open while I work on it. Might have to add some limits if it gets too popular.
 
 **Q: Can I contribute?**  
-A: This isn't an open-source project right now, but feel free to suggest ideas! I'm particularly fond of ideas that don't require me to rewrite everything from scratch.
+A: Not open-source right now, but suggestions are welcome. Bonus points if they don’t make me rewrite everything from scratch.
 
 **Q: What models are available?**  
-**A:** Currently supporting GPT-4o, GPT-3.5 Turbo, and Nova AI. More might come later (if I ever figure out how to add them without breaking everything), but honestly… too lazy to keep this updated. Just go check the docs like everyone else! 😎
+**A:** Currently supporting GPT-5, GPT-4o, Nova AI... More might come later (if I ever figure out how to add them without breaking everything), but honestly… too lazy to keep this updated. Just go check the docs like everyone else!!
 
 **Q: Will this make me rich and famous?**  
-A: Probably not, but neither will pretending to code while secretly browsing memes.
+A: Probably not, but at least you’ll have a functioning API to brag about.
 
 
 I'll post updates here when I add new features or models, so star the repo if you want to stay in the loop! No spam, I promise. I'm too lazy for that.
 
 ---
 
-Made with ☕, vibe code, and a concerning amount of late-night debugging sessions
+Made with ☕, vibe code and questionable life choices
